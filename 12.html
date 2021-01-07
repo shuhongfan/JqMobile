@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/jquery.mobile-1.4.5.min.css">
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+    <div data-role="page">
+        <div data-role="header">
+            <h1>顶部</h1>
+        </div>
+        <div data-role="main" class="ui-content">
+            <h1>content</h1>
+            <a href="#alert"
+               data-rel="popup"
+               data-position-to="windows"
+               data-transition="fade"
+               class="ui-btn ui-corner-all ui-shadow ui-btn-inline">
+                打开对框框弹窗
+            </a>
+            <div data-role="popup" id="alert">
+                <div data-role="header">
+                    <h1>header</h1>
+                </div>
+                <div data-role="main" class="ui-content">
+                    <h2>弹窗弹窗弹窗弹窗弹窗弹窗弹窗弹窗弹窗弹窗弹窗弹窗弹窗弹窗</h2>
+                    <a href=""
+                       class="ui-btn ui-corner-all ui-shadow
+                       ui-btn-inline ui-btn-b ui-icon-back
+                       ui-btn-icon-left" data-rel="back"
+                    >
+                        返回
+                    </a>
+                </div>
+                <div data-role="footer">
+                    <h1>footer</h1>
+                </div>
+            </div>
+        </div>
+        <div data-role="footer">
+            <h1>footer</h1>
+        </div>
+    </div>
+</body>
+</html>

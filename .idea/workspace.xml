@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f445d99-90cd-41eb-852d-fd94d6f4074e" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V0rr3iIkcmalh8VTJgPiodp8BC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HTML5CSS3" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\XAMPP\jq-mobile" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="15.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jq-mobile/15.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.15.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f445d99-90cd-41eb-852d-fd94d6f4074e" name="默认的" comment="" />
+      <created>1576401049026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576401049026</updated>
+      <workItem from="1576401050347" duration="11576000" />
+      <workItem from="1576466506146" duration="13121000" />
+      <workItem from="1576510770215" duration="432000" />
+      <workItem from="1577156219536" duration="106000" />
+      <workItem from="1577156521081" duration="619000" />
+      <workItem from="1578556194269" duration="73000" />
+      <workItem from="1578556296781" duration="33000" />
+      <workItem from="1578557553271" duration="23000" />
+      <workItem from="1578661740535" duration="4000" />
+      <workItem from="1580192145779" duration="115000" />
+      <workItem from="1580192462632" duration="1825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="914" y="175" key="FileChooserDialogImpl" timestamp="1576511201367">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="914" y="175" key="FileChooserDialogImpl/0.0.1549.831@0.0.1549.831" timestamp="1576511201367" />
+    <state width="784" height="206" key="GridCell.Tab.0.bottom" timestamp="1576491166661">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1576491166661" />
+    <state width="784" height="206" key="GridCell.Tab.0.center" timestamp="1576491166661">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1576491166661" />
+    <state width="784" height="206" key="GridCell.Tab.0.left" timestamp="1576491166660">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1576491166660" />
+    <state width="784" height="206" key="GridCell.Tab.0.right" timestamp="1576491166661">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1576491166661" />
+    <state width="784" height="206" key="GridCell.Tab.1.bottom" timestamp="1576491166661">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1576491166661" />
+    <state width="784" height="206" key="GridCell.Tab.1.center" timestamp="1576491166661">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1576491166661" />
+    <state width="784" height="206" key="GridCell.Tab.1.left" timestamp="1576491166661">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1576491166661" />
+    <state width="784" height="206" key="GridCell.Tab.1.right" timestamp="1576491166661">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1576491166661" />
+    <state width="784" height="206" key="GridCell.Tab.2.bottom" timestamp="1576491166662">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.2.bottom/0.0.1549.831@0.0.1549.831" timestamp="1576491166662" />
+    <state width="784" height="206" key="GridCell.Tab.2.center" timestamp="1576491166661">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.2.center/0.0.1549.831@0.0.1549.831" timestamp="1576491166661" />
+    <state width="784" height="206" key="GridCell.Tab.2.left" timestamp="1576491166661">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.2.left/0.0.1549.831@0.0.1549.831" timestamp="1576491166661" />
+    <state width="784" height="206" key="GridCell.Tab.2.right" timestamp="1576491166662">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.2.right/0.0.1549.831@0.0.1549.831" timestamp="1576491166662" />
+    <state width="784" height="206" key="GridCell.Tab.3.bottom" timestamp="1576491166662">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.3.bottom/0.0.1549.831@0.0.1549.831" timestamp="1576491166662" />
+    <state width="784" height="206" key="GridCell.Tab.3.center" timestamp="1576491166662">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.3.center/0.0.1549.831@0.0.1549.831" timestamp="1576491166662" />
+    <state width="784" height="206" key="GridCell.Tab.3.left" timestamp="1576491166662">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.3.left/0.0.1549.831@0.0.1549.831" timestamp="1576491166662" />
+    <state width="784" height="206" key="GridCell.Tab.3.right" timestamp="1576491166662">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="784" height="206" key="GridCell.Tab.3.right/0.0.1549.831@0.0.1549.831" timestamp="1576491166662" />
+    <state x="123" y="44" key="SettingsEditor" timestamp="1580192256261">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="123" y="44" key="SettingsEditor/0.0.1549.831@0.0.1549.831" timestamp="1580192256261" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1576469395795">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1549.831@0.0.1549.831" timestamp="1576469395795" />
+    <state x="774" y="194" width="672" height="677" key="run.anything.popup" timestamp="1576401983841">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="774" y="194" width="672" height="677" key="run.anything.popup/0.0.1549.831@0.0.1549.831" timestamp="1576401983841" />
+    <state x="780" y="152" width="672" height="678" key="search.everywhere.popup" timestamp="1576401978028">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="780" y="152" width="672" height="678" key="search.everywhere.popup/0.0.1549.831@0.0.1549.831" timestamp="1576401978028" />
+  </component>
+</project>

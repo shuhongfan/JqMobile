@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/jquery.mobile-1.4.5.min.css">
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+    <div data-role="page">
+        <div data-role="header">
+            <h1>header</h1>
+        </div>
+        <div data-role="main" class="ui-content">
+            <h1>main</h1>
+            <ul data-role="listview" data-inset="true">
+                <li><a href=""><img class="ui-li-icon" src="./img/us.png" alt="">USA<span class="ui-li-count">25</span></a></li>
+                <li><a href=""><img class="ui-li-icon" src="./img/gb.png" alt="">Great Britain<span class="ui-li-count">5</span></a></li>
+                <li><a href=""><img class="ui-li-icon" src="./img/finland.png" alt="">Finland<span class="ui-li-count">255</span></a></li>
+                <li><a href=""><img class="ui-li-icon" src="./img/france.png" alt="">France<span class="ui-li-count">265</span></a></li>
+            </ul>
+            <ul data-role="listview" data-inset="true">
+                <li>
+                    <a href="">
+                        <img src="./img/chrome.png" alt="">
+                        <h2>Google Chrome</h2>
+                        <p>Google Chrome 是免费的开源 web 浏览器。发布于 2008 年。</p>
+                    </a>
+                    <a href=""></a>
+                </li>
+                <li>
+                    <a href="">
+                        <img src="./img/firefox.png" alt="">
+                        <h2>Mozilla Firefox</h2>
+                        <p>Firefox 是来自 Mozilla 的 web 浏览器。发布于 2004 年。</p>
+                    </a>
+                    <a href="#down" data-transition="pop" data-icon="gear">下载</a>
+                </li>
+            </ul>
+        </div>
+        <div data-role="footer">
+            <h1>footer</h1>
+        </div>
+    </div>
+    <div data-role="page" id="down">
+        <div data-role="main" class="ui-content">
+            <h1>拆分按钮实例</h1>
+            <h3>下载浏览器</h3>
+            <a href="" data-rel="back" class="ui-btn ui-btn-inline ui-btn-b ui-shadow ui-corner-all ui-icon-check ui-btn-icon-left">下载</a>
+            <a href="" data-rel="back" class="ui-btn ui-btn-inline">取消</a>
+        </div>
+    </div>
+</body>
+</html>

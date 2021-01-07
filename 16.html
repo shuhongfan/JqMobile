@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/jquery.mobile-1.4.5.min.css">
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+    <div data-role="page" id="page">
+        <div data-role="panel" id="pan1">
+            <h2>面板头部</h2>
+            <p>面板</p>
+            <a href="#page" data-rel="close" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-btn-a ui-icon-delete ui-btn-icon-left">关闭面板</a>
+        </div>
+        <div data-role="panel" id="pan2" data-display="overlay">
+            <h2>覆盖面板</h2>
+            <p>覆盖面板</p>
+            <a href="#page" data-rel="close" class="ui-btn ui-btn-inline ui-btn-b ui-corner-all ui-shadow ui-btn-icon-left ui-icon-delete">关闭</a>
+        </div>
+        <div data-role="panel" id="pan3" data-display="reveal" data-position="right" data-position-fixed="true">
+            <h2>滑动面板</h2>
+            <p>滑动面板</p>
+            <a href="#page" data-rel="close" class="ui-btn">关闭</a>
+        </div>
+        <div data-role="panel" id="pan4" data-dispaly="push">
+            <h2>推动面板</h2>
+            <p>推动面板</p>
+            <a href="#page" data-rel="close" class="ui-btn">关闭</a>
+        </div>
+        <div data-role="header">
+            <h1>header</h1>
+        </div>
+        <div data-role="main" class="ui-content">
+            <h1>main</h1>
+            <a href="#pan1" class="ui-btn ui-btn-inline ui-shadow ui-corner-all">打开面板panel</a>
+            <a href="#pan2" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-icon-delete ui-btn-icon-left">覆盖面板</a>
+            <a href="#pan3" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-icon-delete ui-btn-icon-left">滑出面板</a>
+            <a href="#pan4" class="ui-btn ui-btn-inline ui-shadow ui-corner-all ui-icon-delete ui-btn-icon-left">推动面板</a>
+        </div>
+        <div data-role="footer">
+            <h1>footer</h1>
+        </div>
+    </div>
+</body>
+</html>

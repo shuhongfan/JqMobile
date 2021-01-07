@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/jquery.mobile-1.4.5.min.css">
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/jquery.mobile-1.4.5.min.js"></script>
+</head>
+<body>
+    <div data-role="page">
+        <div data-role="header">
+            <h1>首页</h1>
+        </div>
+        <div data-role="main" class="ui-content">
+            <h1>内容区域</h1>
+            <a href="#app1" data-rel="popup" class="ui-btn ui-btn-inline" data-position-to="#demo">左边</a>
+            <a href="#app2" data-rel="popup" class="ui-btn ui-btn-inline" data-position-to="#demo">顶部</a>
+            <a href="#app3" data-rel="popup" class="ui-btn ui-btn-inline" data-position-to="#demo">右边</a>
+            <a href="#app4" data-rel="popup" class="ui-btn ui-btn-inline" data-position-to="#demo">底部</a>
+            <div data-role="popup" id="app1" class="ui-content" data-arrow="l">
+                <p>左边</p>
+            </div>
+            <div data-role="popup" id="app2" class="ui-content" data-arrow="t">
+                <p>上边</p>
+            </div>
+            <div data-role="popup" id="app3" class="ui-content" data-arrow="r">
+                <p>右边</p>
+            </div>
+            <div data-role="popup" id="app4" class="ui-content" data-arrow="b">
+                <p>下边</p>
+            </div>
+            <p >这是一个段落，<span id="demo">啊啊啊啊</span>用于实例展示。</p>
+        </div>
+        <div data-role="footer">
+            <h1>底部</h1>
+        </div>
+    </div>
+</body>
+</html>
